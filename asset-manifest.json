@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31a48a81.css",
+    "main.js": "/static/js/main.41fa64d6.js",
+    "static/js/787.0163084b.chunk.js": "/static/js/787.0163084b.chunk.js",
+    "static/media/Cinemania.mp4": "/static/media/Cinemania.f7346b378115d8a9f5f4.mp4",
+    "static/media/adoreaVideo.mp4": "/static/media/adoreaVideo.5f5b64c7b4a720957222.mp4",
+    "static/media/adoreaTeam.jpeg": "/static/media/adoreaTeam.6d85b50e04f29ac0e95f.jpeg",
+    "static/media/AdoreaDesign.jpeg": "/static/media/AdoreaDesign.ab0110a537c222693e32.jpeg",
+    "static/media/tweetpopup.jpeg": "/static/media/tweetpopup.2f2210fcbc1c3576b636.jpeg",
+    "static/media/AdoresDevice.jpeg": "/static/media/AdoresDevice.edfc35674ba1d559330e.jpeg",
+    "static/media/editprofile.jpeg": "/static/media/editprofile.4a0f35174a6a9e8ec3ad.jpeg",
+    "static/media/me.jpg": "/static/media/me.726a41bb3323b7709581.jpg",
+    "static/media/profilepage1.jpeg": "/static/media/profilepage1.8be235500e469c8d5ee4.jpeg",
+    "static/media/notifikacije.jpeg": "/static/media/notifikacije.1f5616caeafa1d671774.jpeg",
+    "static/media/komentari.jpeg": "/static/media/komentari.edf06e7faab685d25587.jpeg",
+    "static/media/login.jpeg": "/static/media/login.0357a7d4b283ac9161a9.jpeg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.31a48a81.css.map": "/static/css/main.31a48a81.css.map",
+    "main.41fa64d6.js.map": "/static/js/main.41fa64d6.js.map",
+    "787.0163084b.chunk.js.map": "/static/js/787.0163084b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a48a81.css",
+    "static/js/main.41fa64d6.js"
+  ]
+}
