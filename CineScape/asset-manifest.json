@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CineScape/static/css/main.68830771.css",
+    "main.js": "/CineScape/static/js/main.7d2074df.js",
+    "static/js/453.f9c7c4ea.chunk.js": "/CineScape/static/js/453.f9c7c4ea.chunk.js",
+    "static/media/logo-white.png": "/CineScape/static/media/logo-white.a1d26feef1c7809bc6db.png",
+    "index.html": "/CineScape/index.html",
+    "main.68830771.css.map": "/CineScape/static/css/main.68830771.css.map",
+    "main.7d2074df.js.map": "/CineScape/static/js/main.7d2074df.js.map",
+    "453.f9c7c4ea.chunk.js.map": "/CineScape/static/js/453.f9c7c4ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68830771.css",
+    "static/js/main.7d2074df.js"
+  ]
+}
