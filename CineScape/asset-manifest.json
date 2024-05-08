@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CineScape/static/css/main.f3cc7298.css",
-    "main.js": "/CineScape/static/js/main.a304e740.js",
+    "main.css": "/CineScape/static/css/main.1e5e3085.css",
+    "main.js": "/CineScape/static/js/main.0d42a3f1.js",
     "static/js/453.f9c7c4ea.chunk.js": "/CineScape/static/js/453.f9c7c4ea.chunk.js",
     "static/media/logo-white.png": "/CineScape/static/media/logo-white.a1d26feef1c7809bc6db.png",
     "index.html": "/CineScape/index.html",
-    "main.f3cc7298.css.map": "/CineScape/static/css/main.f3cc7298.css.map",
-    "main.a304e740.js.map": "/CineScape/static/js/main.a304e740.js.map",
+    "main.1e5e3085.css.map": "/CineScape/static/css/main.1e5e3085.css.map",
+    "main.0d42a3f1.js.map": "/CineScape/static/js/main.0d42a3f1.js.map",
     "453.f9c7c4ea.chunk.js.map": "/CineScape/static/js/453.f9c7c4ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3cc7298.css",
-    "static/js/main.a304e740.js"
+    "static/css/main.1e5e3085.css",
+    "static/js/main.0d42a3f1.js"
   ]
 }
